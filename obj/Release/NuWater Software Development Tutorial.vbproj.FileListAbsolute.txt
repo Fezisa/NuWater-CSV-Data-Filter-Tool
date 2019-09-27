@@ -1,0 +1,11 @@
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Release\WindowsApplication1.LoginForm1.resources
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Release\NuWater Software Development Tutorial.vbproj.GenerateResource.Cache
+C:\Users\RWAYI\Desktop\NuWater Software Development Tutorial.exe.config
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Release\NuWater Software Development Tutorial.exe
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Release\NuWater Software Development Tutorial.xml
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Release\NuWater Software Development Tutorial.pdb
+C:\Users\RWAYI\Desktop\NuWater Software Development Tutorial.exe
+C:\Users\RWAYI\Desktop\NuWater Software Development Tutorial.pdb
+C:\Users\RWAYI\Desktop\NuWater Software Development Tutorial.xml
