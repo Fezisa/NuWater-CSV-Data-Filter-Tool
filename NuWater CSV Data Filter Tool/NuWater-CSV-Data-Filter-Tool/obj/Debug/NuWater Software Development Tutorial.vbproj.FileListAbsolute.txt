@@ -1,0 +1,25 @@
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\bin\Debug\NuWater Software Development Tutorial.exe.config
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\bin\Debug\NuWater Software Development Tutorial.exe
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\bin\Debug\NuWater Software Development Tutorial.pdb
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\bin\Debug\NuWater Software Development Tutorial.xml
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Debug\NuWater Software Development Tutorial.vbproj.GenerateResource.Cache
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Debug\NuWater Software Development Tutorial.exe
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Debug\NuWater Software Development Tutorial.xml
+C:\Users\RWAYI\Desktop\My VB Projects\NuWater Tutorial\NuWater Software Development Tutorial\NuWater Software Development Tutorial\obj\Debug\NuWater Software Development Tutorial.pdb
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\bin\Debug\NuWater Software Development Tutorial.exe.config
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\bin\Debug\NuWater Software Development Tutorial.exe
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\bin\Debug\NuWater Software Development Tutorial.pdb
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\bin\Debug\NuWater Software Development Tutorial.xml
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\NuWater Software Development Tutorial.vbproj.AssemblyReference.cache
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\NuWater Software Development Tutorial.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\NuWater Software Development Tutorial.vbproj.GenerateResource.cache
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\NuWater Software Development Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\NuWater Software Development Tutorial.exe
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\NuWater Software Development Tutorial.xml
+C:\Users\Fezisa.Rwayi\MyProjects\NuWater CSV Data Filter Tool\NuWater CSV Data Filter Tool\NuWater-CSV-Data-Filter-Tool\obj\Debug\NuWater Software Development Tutorial.pdb
